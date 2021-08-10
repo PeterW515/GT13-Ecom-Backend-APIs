@@ -3,6 +3,13 @@
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   This project is an Express app that represents the back-end framework of an e-commerce site. A MySQL database tracks products, categories, and tags and is integrated with the app using Sequelize. APIs exist to get all products, categories, and tags, get by ID, create, update, and delete.
+  
+  Click here for a demo: https://drive.google.com/file/d/1F0piDiKjqIIofRFUmDdM3FN_VZEsFPcb/view
+
+
+![image](https://user-images.githubusercontent.com/78565748/128943599-acde399a-06df-44db-9a98-274e0162859f.png)
+
+
 
   ---
 
